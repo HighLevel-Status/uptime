@@ -26,7 +26,8 @@ status-website:
   cname: uptime.gohighlevel.site
   # baseUrl: /uptime
   logoUrl: https://assets.cdn.filesafe.space/knES3eSWYIsc5YSZ3YLl/media/64386abe9b51f751a07c2e0d.webp
-  name: HighLevel Status
+  favicon: https://storage.googleapis.com/msgsndr/knES3eSWYIsc5YSZ3YLl/media/62b48689c85eccb36ca941fc.png
+  # name: HighLevel Status
   introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a HighLevel status page
   publish: true
