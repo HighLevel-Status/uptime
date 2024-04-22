@@ -25,14 +25,14 @@ status-website:
   cname: uptime.gohighlevel.site
   # baseUrl: /uptime
   logoUrl: https://images.leadconnectorhq.com/image/f_webp/q_…3413f4d-3691-4d3e-8e9c-31ba9bd55cf9.png?alt=media
-  name: Status
+  name: HighLevel Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a HighLevel status page
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: HighLevel
+      href: https://www.GoHighLevel.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
