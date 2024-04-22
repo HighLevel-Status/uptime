@@ -25,11 +25,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.gohighlevel.site
   # baseUrl: /uptime
-  logoUrl: https://images.leadconnectorhq.com/image/f_webp/q_…3413f4d-3691-4d3e-8e9c-31ba9bd55cf9.png?alt=media
+  logoUrl: https://assets.cdn.filesafe.space/knES3eSWYIsc5YSZ3YLl/media/64386abe9b51f751a07c2e0d.webp
   name: HighLevel Status
   introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a HighLevel status page
   publish: true
+  theme: dark
   navbar:
     - title: Status
       href: /
