@@ -12,7 +12,7 @@ sites:
   - name: HighLevel Opportunity List
     url: https://services.leadconnectorhq.com/appengine/health-status/es-opportunity-list
   - name: HighLevel Memberships
-    url: https://services.leadconnectorhq.com/membership
+    url: https://services.leadconnectorhq.com/membership/
   - name: Highlevel App
     url: https://app.gohighlevel.com
     port: 80
