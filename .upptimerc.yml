@@ -25,7 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.gohighlevel.site
   # baseUrl: /uptime
-  apiBaseUrl: https://api.github.com
+  # apiBaseUrl: https://api.github.com
   logoUrl: https://assets.cdn.filesafe.space/knES3eSWYIsc5YSZ3YLl/media/64386abe9b51f751a07c2e0d.webp
   favicon: https://storage.googleapis.com/msgsndr/knES3eSWYIsc5YSZ3YLl/media/62b48689c85eccb36ca941fc.png
   name: HighLevel Status
