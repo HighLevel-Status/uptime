@@ -1,7 +1,7 @@
 url: https://services.leadconnectorhq.com/membership/
-status: up
-code: 200
-responseTime: 50
-lastUpdated: 2024-04-24T23:05:18.846Z
+status: down
+code: 503
+responseTime: 20
+lastUpdated: 2024-04-25T07:56:59.323Z
 startTime: 2024-04-22T08:17:53.528Z
 generator: Upptime <https://github.com/upptime/upptime>
