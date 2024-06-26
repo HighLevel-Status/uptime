@@ -96,18 +96,19 @@
     "url": "https://app.gohighlevel.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.gohighlevel.com.ico",
     "slug": "highlevel-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 190,
-    "timeDay": 279,
-    "timeWeek": 221,
-    "timeMonth": 219,
-    "timeYear": 190,
+    "time": 475,
+    "timeDay": 11075,
+    "timeWeek": 2927,
+    "timeMonth": 896,
+    "timeYear": 475,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-04-22": 68
     }
   }
